@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about Vue and doing a Web Development Bootcamp. It is just to improve my skills and get a better look on how different things are done.
 -    I am looking to improve myself and become the best Developer I can be. I think I still need to learn millions of more stuff, as I have only 3 years experience.
 - 📫 How to reach me 
-     Email: fbenncollins572@gmail.com
+     Email: fbencollins572@gmail.com
      Discord: AwkwardBen#5202
 
 <!---
